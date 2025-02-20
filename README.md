@@ -18,9 +18,6 @@ Proyek ini mendemonstrasikan animasi **ferris wheel** menggunakan HTML dan CSS. 
 | `animation-iteration-count`  | Menentukan berapa kali animasi akan berjalan, bisa berupa angka atau `infinite`. |
 | `transform-origin`           | Menentukan titik asal transformasi (misalnya `0% 0%` berarti sudut kiri atas, `50% 50%` berarti tengah elemen). |
 
-
-## 🎬 Animasi CSS yang Digunakan
-
 ### 1️⃣ `@keyframes wheel`
 Animasi ini diterapkan pada kelas `.wheel`, membuat bianglala berputar terus-menerus. 🔄
 ```css
